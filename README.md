@@ -1,4 +1,4 @@
-# bank
+# Biometics authentication
 
 A new Flutter project.
 
